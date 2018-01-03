@@ -264,7 +264,7 @@
     <elementParameter field="TEXT" name="CC" value="&quot;rajeshj@gain-insights.com&quot;"/>
     <elementParameter field="TEXT" name="BCC" value="&quot;rajeshj@gain-insights.com&quot;"/>
     <elementParameter field="TEXT" name="SUBJECT" value="&quot;Talend Open Studio notification&quot;"/>
-    <elementParameter field="MEMO_MESSAGE" name="MESSAGE" value="Talend job completed &quot;Talend&quot;"/>
+    <elementParameter field="MEMO_MESSAGE" name="MESSAGE" value="&quot;Talend&quot;"/>
     <elementParameter field="CHECK" name="CHECK_ATTACHMENT" value="true"/>
     <elementParameter field="TABLE" name="ATTACHMENTS"/>
     <elementParameter field="TABLE" name="HEADERS"/>
