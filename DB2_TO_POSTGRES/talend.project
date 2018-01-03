@@ -247,6 +247,7 @@
       <relatedItems xmi:id="_kxGERPBTEeeD66qRLMMiVw" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_kxGERfBTEeeD66qRLMMiVw" id="DataQualityDependencies" version="Latest" type="routine"/>
     </ItemsRelations>
+    <deletedFolders>process/notification/demo</deletedFolders>
     <migrationTask xmi:id="_cTC9UO-4EeeFEKiCsuN16g" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_cTC9Ue-4EeeFEKiCsuN16g" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_cTC9Uu-4EeeFEKiCsuN16g" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
