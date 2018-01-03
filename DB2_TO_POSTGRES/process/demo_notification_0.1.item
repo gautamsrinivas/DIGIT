@@ -196,7 +196,7 @@
       <column comment="" key="false" length="3" name="S_NO" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
       <column comment="" key="false" length="7" name="NAME" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="-1" name="newColumn" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
-      <column comment="" key="false" length="9" name="DEPARTMENT" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="9" name="DEPARTMENT" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
     </metadata>
     <nodeData xsi:type="TalendMapper:MapperData">
       <uiProperties shellMaximized="true"/>
@@ -205,7 +205,7 @@
         <mapperTableEntries name="S_NO" expression="row1.S_NO " type="id_Integer" nullable="true"/>
         <mapperTableEntries name="NAME" expression="row1.NAME " type="id_String" nullable="true"/>
         <mapperTableEntries name="newColumn" type="id_String" nullable="true"/>
-        <mapperTableEntries name="DEPARTMENT" expression="row1.DEPARTMENT " type="id_String" nullable="true"/>
+        <mapperTableEntries name="DEPARTMENT" expression="row1.DEPARTMENT " type="id_Integer" nullable="true"/>
       </outputTables>
       <inputTables sizeState="INTERMEDIATE" name="row1" matchingMode="UNIQUE_MATCH" lookupMode="LOAD_ONCE">
         <mapperTableEntries name="S_NO" type="id_Integer" nullable="true"/>
