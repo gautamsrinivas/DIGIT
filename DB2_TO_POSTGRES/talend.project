@@ -245,7 +245,6 @@
       <relatedItems xmi:id="_vdtJQPBZEeeD66qRLMMiVw" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_vdtJQfBZEeeD66qRLMMiVw" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_vdtJQvBZEeeD66qRLMMiVw" id="_S_9JcPBJEeeD66qRLMMiVw - metadata" version="Latest" type="schema"/>
-      <relatedItems xmi:id="_VZKg4PBnEeeD66qRLMMiVw" id="_FDBUgPBJEeeD66qRLMMiVw" version="0.1" type="job"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_5mgDgPBsEeeD66qRLMMiVw">
       <baseItem xmi:id="_5mgDgfBsEeeD66qRLMMiVw" id="_5mZ84PBsEeeD66qRLMMiVw" version="0.1" type="job"/>
