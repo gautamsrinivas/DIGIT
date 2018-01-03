@@ -199,7 +199,7 @@
       <column comment="" key="false" length="9" name="DEPARTMENT" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
     </metadata>
     <nodeData xsi:type="TalendMapper:MapperData">
-      <uiProperties shellMaximized="true"/>
+      <uiProperties/>
       <varTables sizeState="INTERMEDIATE" name="Var" minimized="true"/>
       <outputTables sizeState="INTERMEDIATE" name="out1">
         <mapperTableEntries name="S_NO" expression="row1.S_NO " type="id_Integer" nullable="true"/>
@@ -255,7 +255,7 @@
       <column comment="" key="false" length="9" name="DEPARTMENT" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
     </metadata>
   </node>
-  <node componentName="tSendMail" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="768" posY="64">
+  <node componentName="tSendMail" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="832" posY="32">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tSendMail_3" show="false"/>
     <elementParameter field="TEXT" name="TO" value="&quot;rajeshj@gain-insights.com&quot;"/>
     <elementParameter field="TEXT" name="FROM" value="&quot;rajeshj@gain-insights.com&quot;"/>
@@ -289,7 +289,7 @@
       <column comment="" key="false" length="9" name="DEPARTMENT" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
     </metadata>
   </node>
-  <node componentName="tSendMail" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="768" posY="160">
+  <node componentName="tSendMail" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="864" posY="160">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tSendMail_2" show="false"/>
     <elementParameter field="TEXT" name="TO" value="&quot;rajeshj@gain-insights.com&quot;"/>
     <elementParameter field="TEXT" name="FROM" value="&quot;rajeshj@gain-insights.com&quot;"/>
