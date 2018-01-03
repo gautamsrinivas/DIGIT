@@ -270,8 +270,6 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_5mgDgPBsEeeD66qRLMMiVw">
       <baseItem xmi:id="_5mgDgfBsEeeD66qRLMMiVw" id="_5mZ84PBsEeeD66qRLMMiVw" version="0.1" type="job"/>
-      <relatedItems xmi:id="_5mgDgvBsEeeD66qRLMMiVw" id="_FDBUgPBJEeeD66qRLMMiVw" version="0.1" type="job"/>
-      <relatedItems xmi:id="_5mgDg_BsEeeD66qRLMMiVw" id="_NVvAgPBoEeeD66qRLMMiVw" version="Latest" type="joblet"/>
       <relatedItems xmi:id="_5mgDhPBsEeeD66qRLMMiVw" id="_S_9JcPBJEeeD66qRLMMiVw" version="Latest" type="property"/>
       <relatedItems xmi:id="_5mgDhfBsEeeD66qRLMMiVw" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_5mgDhvBsEeeD66qRLMMiVw" id="Numeric" version="Latest" type="routine"/>
