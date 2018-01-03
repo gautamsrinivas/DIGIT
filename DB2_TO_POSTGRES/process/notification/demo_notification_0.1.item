@@ -260,8 +260,8 @@
     <elementParameter field="TEXT" name="FROM" value="&quot;rajeshj@gain-insights.com&quot;"/>
     <elementParameter field="CHECK" name="NEED_PERSONAL_NAME" value="false"/>
     <elementParameter field="TEXT" name="PERSONAL_NAME" value="&quot;sender&quot;" show="false"/>
-    <elementParameter field="TEXT" name="CC" value="&quot;gautams@gain-insights.com&quot;"/>
-    <elementParameter field="TEXT" name="BCC" value="&quot;blindcarbon@example.com&quot;"/>
+    <elementParameter field="TEXT" name="CC" value="&quot;rajeshj@gain-insights.com&quot;"/>
+    <elementParameter field="TEXT" name="BCC" value="&quot;rajeshj@gain-insights.com&quot;"/>
     <elementParameter field="TEXT" name="SUBJECT" value="&quot;Talend Open Studio notification&quot;"/>
     <elementParameter field="MEMO_MESSAGE" name="MESSAGE" value="&quot;Talend job completed&quot;"/>
     <elementParameter field="CHECK" name="CHECK_ATTACHMENT" value="false"/>
