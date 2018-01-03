@@ -246,6 +246,7 @@
       <relatedItems xmi:id="_vdtJQfBZEeeD66qRLMMiVw" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_vdtJQvBZEeeD66qRLMMiVw" id="_S_9JcPBJEeeD66qRLMMiVw - metadata" version="Latest" type="schema"/>
       <relatedItems xmi:id="_VZKg4PBnEeeD66qRLMMiVw" id="_FDBUgPBJEeeD66qRLMMiVw" version="0.1" type="job"/>
+      <relatedItems xmi:id="_PFt68PBpEeeD66qRLMMiVw" id="_NVvAgPBoEeeD66qRLMMiVw" version="Latest" type="joblet"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_OXZR0PBoEeeD66qRLMMiVw">
       <baseItem xmi:id="_OXZR0fBoEeeD66qRLMMiVw" id="_NVvAgPBoEeeD66qRLMMiVw" version="0.1" type="joblet"/>
