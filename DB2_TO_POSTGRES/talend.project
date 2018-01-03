@@ -632,4 +632,5 @@
   <TalendProperties:User xmi:id="_oXCr8O--EeehLNYdxjrjzg" login="gatuams@gain-insights.com" firstName="gautam" lastName="srinivas" type="DQ" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_O6zcgPBKEeehLNYdxjrjzg" login="gautams@gain-insights.com" firstName="gautam" lastName="srinivas" type="DQ" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_dA08APBKEeehLNYdxjrjzg" login="rajeshj@gain-insights.com" firstName="gautam" lastName="srinivas" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_26xAkPBtEeehLNYdxjrjzg" login="Trigger-Runner" type="DQ"/>
 </xmi:XMI>
